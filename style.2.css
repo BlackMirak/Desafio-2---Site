@@ -1,0 +1,39 @@
+body {
+    background: rgba(247, 231, 141);
+}
+
+.botao li {
+
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border: 0px solid ;
+    background-color: rgb(184, 160, 28);
+    width: 150px;
+    height: 30px;
+   
+   
+}
+
+ul {
+
+    text-align: center;
+}
+
+li {
+
+    display: inline-block;
+}
+.texto {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+    text-align: center;
+    box-sizing: border-box;
+    margin-block-start: 0;
+    margin-block-end: .9rem;
+ 
+
+}
+.rodapé {
+
+    margin-top: 5%;
+}
